@@ -98,7 +98,7 @@ tab1 ,tab2 = st.tabs(["About","Working"])
 
 with tab1:
     st.caption('This a Content Based Movie Recommendation System')
-    st.caption('In upcoming versions new movies would be added :blue[😎] ')   #:blue[:sunglasses:]
+    st.caption('In upcoming versions new movies would be added 😎')   #:blue[:sunglasses:]
 with tab2:
     st.caption("It Contains Movie's from The Movie Data Base (TMDB)")
     st.caption("For more infos and ⭐ at https://github.com/vikramr22/moviesway-v2 ")
