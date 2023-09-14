@@ -17,6 +17,8 @@ api_key =os.getenv("apikey")
 movies_dict = pickle.load(open("movies_dict.pkl","rb"))
 movies = pd.DataFrame(movies_dict)
 
+movies.drop_duplicates(inplace=True)
+
 vote_info = pickle.load(open("vote_info.pkl","rb"))
 vote = pd.DataFrame(vote_info)
 
