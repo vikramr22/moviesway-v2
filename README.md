@@ -9,7 +9,7 @@
 
 
 
-This are few snapshots :
+These are few snapshots :
 
 <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/3X/9/8/98733e9444e0451be311e56cb6fced8c45eafcb0.png" width=500 href="none"></img>
 
